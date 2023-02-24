@@ -34,3 +34,8 @@ https://user-images.githubusercontent.com/7010398/221209668-6680d81d-01b9-4071-9
 
 ### Well done 🤝
 Now you can import .unitypackage to custom folder.
+
+### Unity Editors Support
+`Smart Importer` implemented via C# Reflection  and pass tests on the editor versions
+
+`2020`, `2021`, `2022`
