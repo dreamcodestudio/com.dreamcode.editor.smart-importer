@@ -1,7 +1,7 @@
 {
   "name": "com.dreamcode.editor.smart-importer",
   "displayName": "SmartImporter",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "unity": "2020.3",
   "description": "Allows import Unity packages (.unitypackage) to custom folder, ignoring initial assets paths.",
   "keywords": [

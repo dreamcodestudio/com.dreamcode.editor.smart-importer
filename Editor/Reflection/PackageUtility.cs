@@ -22,7 +22,7 @@ namespace DreamCode.SmartImporter.Editor.Reflection
                 var exportedAssetPath = (string)exportedAssetPathFieldInfo.GetValue(asset);
                 var existingAssetPath = (string)existingAssetPathFieldInfo.GetValue(asset);
                 var destinationPathWithoutRoot =
-                    exportedAssetPath[exportedAssetPath.IndexOf("/", StringComparison.Ordinal)..];
+                    exportedAssetPath.Substring(exportedAssetPath.IndexOf("/", StringComparison.Ordinal));
                 var resultPath = selectedFolder + destinationPathWithoutRoot;
                 if (!string.IsNullOrEmpty(existingAssetPath) && !existingAssetPath.Equals(resultPath))
                 {
