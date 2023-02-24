@@ -1,0 +1,32 @@
+{
+  "name": "com.dreamcode.editor.smart-importer",
+  "displayName": "SmartImporter",
+  "version": "0.8.0",
+  "unity": "2020.3",
+  "description": "Allows import Unity packages (.unitypackage) to custom folder, ignoring initial assets paths.",
+  "keywords": [
+    "importer",
+    "assets importer",
+    "utility",
+    "tools",
+    "editor tools",
+    "assets",
+    "unitypackage",
+    "unity",
+    "dreamcode"
+  ],
+  "homepage": "https://github.com/dreamcodestudio",
+  "bugs": {
+    "url": "https://github.com/dreamcodestudio",
+    "email": "dreamcodestudio@yandex.com"
+  },
+  "changelogUrl": "https://github.com/dreamcodestudio/com.dreamcode.editor.smart-importer/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/dreamcodestudio/com.dreamcode.editor.smart-importer",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/dreamcodestudio/com.dreamcode.editor.smart-importer/blob/main/LICENSE",
+  "author": {
+    "name": "DreamCode",
+    "email": "dreamcodestudio@yandex.com",
+    "url": "https://www.dream-code-studio.com"
+  }
+}
