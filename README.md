@@ -40,3 +40,5 @@ Now you can import .unitypackage to custom folder.
 `Smart Importer` implemented via C# Reflection  and pass tests on the editor versions
 
 `2020`, `2021`, `2022`
+
+[Asset Store](https://assetstore.unity.com/packages/slug/254217)
