@@ -1,5 +1,5 @@
 {
-  "name": "@dreamcodestudio/com.dreamcode.editor.smart-importer",
+  "name": "com.dreamcode.editor.smart-importer",
   "displayName": "SmartImporter",
   "version": "0.8.1",
   "unity": "2020.3",
@@ -28,9 +28,5 @@
     "name": "DreamCode",
     "email": "dreamcodestudio@yandex.com",
     "url": "https://www.dream-code-studio.com"
-  },
-   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@dreamcodestudio"
-  },
-  "repository": { "type": "git", "url": "ssh://git@github.com:dreamcodestudio/com.dreamcode.editor.smart-importer.git", "directory": "com.dreamcode.editor.smart-importer" }
+  }
 }
