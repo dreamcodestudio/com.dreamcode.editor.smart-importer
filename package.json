@@ -28,5 +28,8 @@
     "name": "DreamCode",
     "email": "dreamcodestudio@yandex.com",
     "url": "https://www.dream-code-studio.com"
+  },
+   "publishConfig": {
+    "@dreamcodestudio:registry":"https://npm.pkg.github.com/"
   }
 }
