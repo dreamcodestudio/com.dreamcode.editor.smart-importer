@@ -1,5 +1,5 @@
 {
-  "name": "com.dreamcode.editor.smart-importer",
+  "name": "@dreamcodestudio/com.dreamcode.editor.smart-importer",
   "displayName": "SmartImporter",
   "version": "0.8.1",
   "unity": "2020.3",
