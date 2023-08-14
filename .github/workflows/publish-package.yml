@@ -16,6 +16,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
+      - run: npm config set _authToken=${{NPM_TOKEN}}
       - run: npm install --package-lock-only
       - run: npm ci
       - run: npm publish
