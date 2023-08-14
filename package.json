@@ -30,6 +30,7 @@
     "url": "https://www.dream-code-studio.com"
   },
    "publishConfig": {
-    "@dreamcodestudio:registry":"https://npm.pkg.github.com/"
-  }
+    "registry":"https://npm.pkg.github.com/@dreamcodestudio"
+  },
+  "repository": { "type": "git", "url": "ssh://git@github.com:dreamcodestudio/com.dreamcode.editor.smart-importer.git", "directory": "com.dreamcode.editor.smart-importer" },
 }
