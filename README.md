@@ -4,6 +4,7 @@ Allows import Unity packages (.unitypackage) to custom folder, ignoring initial 
 [![NPM Package](https://img.shields.io/npm/v/com.dreamcode.editor.smart-importer)](https://www.npmjs.com/package/com.dreamcode.editor.smart-importer)
 [![openupm](https://img.shields.io/npm/v/com.dreamcode.editor.smart-importer?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.dreamcode.editor.smart-importer/)
 [![Licence](https://img.shields.io/npm/l/com.dreamcode.mobile.android-keystore)](https://github.com/dreamcodestudio/com.dreamcode.editor.smart-importer/blob/main/LICENSE)
+![NPM Downloads](https://img.shields.io/npm/dt/com.dreamcode.editor.smart-importer)
 
 ### Install from npm 🤖
 * Navigate to the `Packages` directory of your project.
