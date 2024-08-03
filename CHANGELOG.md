@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.8.3] - 2024-08-03
+- Prevent error while export in root `Assets` folder
+- Add installation guide
+
 ## [0.8.1] - 2023-02-24
 - Prevent error CS0518: Predefined type 'System.Range'
 
