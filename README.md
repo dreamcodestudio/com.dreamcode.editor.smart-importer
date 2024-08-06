@@ -65,7 +65,7 @@ https://assetstore.unity.com/packages/slug/254217
 
 * Open the menu item `Import Package > Extract Here`
 
-https://github.com/user-attachments/assets/8c749156-bf19-4a4c-b247-4c9da0f2845f
+https://github.com/user-attachments/assets/f1fc220c-f2b6-4c0f-956b-22135e61c280
 
 ### Well done 🤝
 Now you can import .unitypackage to custom folder.
