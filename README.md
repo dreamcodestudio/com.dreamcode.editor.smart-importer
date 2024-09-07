@@ -76,3 +76,8 @@ Now you can import .unitypackage to custom folder.
 `Smart Importer` implemented via C# Reflection  and pass tests on the editor versions
 
 `2020`, `2021`, `2022`
+
+# ✉️ Contact
+[Telegram](https://t.me/dreamcestudio)
+
+[Email](mailto:dreamcodestudio@yandex.com)
