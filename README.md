@@ -81,3 +81,7 @@ Now you can import .unitypackage to custom folder.
 [Telegram](https://t.me/dreamcestudio)
 
 [Email](mailto:dreamcodestudio@yandex.com)
+
+# 🔑 License
+
+[Unity Asset Store EULA](https://unity.com/legal/as-terms)
