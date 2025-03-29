@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.9.0] - 2024-08-03
+- Added Unity 6 support implementation
+
 ## [0.8.3] - 2024-08-03
 - Prevent error while export in root `Assets` folder
 - Add installation guide

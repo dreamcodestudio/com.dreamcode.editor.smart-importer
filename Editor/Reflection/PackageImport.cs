@@ -8,10 +8,21 @@ namespace DreamCode.SmartImporter.Editor.Reflection
         {
             var packageImport = typeof(MenuItem).Assembly.GetType("UnityEditor.PackageImport");
             var showImportPackageMethodInfo = packageImport.GetMethod("ShowImportPackage");
-            showImportPackageMethodInfo?.Invoke(null, new object[]
+#if UNITY_6000_0_OR_NEWER
+            showImportPackageMethodInfo?.Invoke(
+                null,
+                new object[]
+                {
+                    packagePath, assets, packageIconPath, 0, string.Empty, string.Empty, 0
+                });
+#else
+            showImportPackageMethodInfo?.Invoke(
+                null,
+                new object[]
             {
                 packagePath, assets, packageIconPath
             });
+#endif
         }
     }
 }
